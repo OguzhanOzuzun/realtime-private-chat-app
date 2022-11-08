@@ -1,3 +1,7 @@
+# This is made by React.js and JSX.
+This is online real-time chat web app!
+You can make account and search users and let you have messages with other peoples!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
